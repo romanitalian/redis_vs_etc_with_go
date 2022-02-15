@@ -2,7 +2,8 @@
 
 
 ```
-go mod tidy
+git clone https://github.com/romanitalian/redis_vs_etc_with_go
+cd redis_vs_etc_with_go
 ```
 
 ```
